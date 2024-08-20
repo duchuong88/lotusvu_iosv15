@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "317744439214",
+    "firebase_url": "https://lotus-vu-default-rtdb.firebaseio.com",
+    "project_id": "lotus-vu",
+    "storage_bucket": "lotus-vu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317744439214:android:d3ef7af04b7f5249c8f23f",
+        "android_client_info": {
+          "package_name": "lotusvu.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgq3JITq2D9sO8oYUuwZSbWQDfr6PUsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
